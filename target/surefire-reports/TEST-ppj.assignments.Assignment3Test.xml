@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="ppj.assignments.Assignment3Test" time="0.21" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="ppj.assignments.Assignment3Test" time="0.185" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2016.2.4"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -11,13 +11,13 @@
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7533"/>
+    <property name="idea.launcher.port" value="7532"/>
     <property name="user.script" value=""/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Jarda\Downloads\PPJ\ppj_cv3"/>
+    <property name="user.dir" value="C:\Users\Jarda\Downloads\PPJ\ppj-03"/>
     <property name="java.runtime.version" value="1.8.0_31-b13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_31\jre\lib\endorsed"/>
@@ -63,12 +63,12 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ppj.assignments.Assignment3Test" name="deepSumOfEvenSquaredNumbers1" time="0.116"/>
+  <testcase classname="ppj.assignments.Assignment3Test" name="deepSumOfEvenSquaredNumbers1" time="0.107"/>
   <testcase classname="ppj.assignments.Assignment3Test" name="deepSumOfEvenSquaredNumbers2" time="0"/>
-  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleDivisibleBy1" time="0.005"/>
-  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleDivisibleBy2" time="0.001"/>
+  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleDivisibleBy1" time="0.003"/>
+  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleDivisibleBy2" time="0.002"/>
   <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleDivisibleBy3" time="0.002"/>
-  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleDivisibleBy4" time="0.002"/>
+  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleDivisibleBy4" time="0.001"/>
   <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleEmptyRange1" time="0"/>
-  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleEmptyRange2" time="0"/>
+  <testcase classname="ppj.assignments.Assignment3Test" name="sumOfDivisibleInRangeMustHandleEmptyRange2" time="0.001"/>
 </testsuite>
